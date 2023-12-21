@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">My onlineshop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- MY cart-->
+    <string name="mychrt">mychrt</string>
+    <string name="threedola">3$</string>
+    <string name="dok">-</string>
+    <string name="bok">+</string>
+    <string name="one">1</string>
+    <string name="namecart">Name =</string>
+    <string name="type">type = new</string>
+    <string name="newa">new</string>
+    <string name="hody_gray">hody_gray</string>
+    <string name="threedola3">3$</string>
+    <string name="hody_black">hody_black</string>
+    <string name="tow">2</string>
+    <string name="sixdola">6$</string>
+    <string name="smarttvchrt">smarttvchrt</string>
+    <string name="smart_tv">smart_tv</string>
+    <string name="totalmony">totalmony</string>
+    <string name="totalfull">Totalfull</string>
+    <string name="discountchrt">Discountchrt</string>
+    <string name="discountchrthaseb">discountchrthaseb</string>
+    <string name="total">total = </string>
+    <string name="odersummary">odersummary</string>
+    <string name="odrenew">Oder new</string>
+    <string name="dok1bok">-  1  +</string>
+    <string name="dok2bok">-  2  +</string>
+    <string name="hody_blue">hody_blue</string>
+    <string name="t_shirt">T_shirt</string>
+    <string name="name">Name</string>
+    <string name="Number">Number</string>
+    <string name="Price">Price</string>
+    <string name="odersammary">Oder sammary</string>
+    <string name="buynew">Buy new</string>
+    <string name="add_location">Add location</string>
+    <string name="paycar">Pay car or QRcode </string>
+    <string name="parandlocation">Pay and location</string>
+
+    <!-- Profile -->
+
+    <!-- wishlist -->
+    <string name="Buynew">Buy new </string>
+    <string name="Namet_shirt">Name= T_Shirt</string>
+    <string name="Name_Hody">Name= Hody</string>
+    <string name="item">item</string>
+    <string name="price">price</string>
+    <string name="namehody">namehody</string>
+    <string name="tepynew">tepynew</string>
+    <string name="nameitemshirtblack">name=shirt_black</string>
+    <string name="nameitemshirtblue">name=Hody_blue</string>
+    <string name="cancle">Cancle</string>
+    <string name="Buy">Buy</string>
+
+    <!-- Home -->
+    <string name="welcome">welcome</string>
+    <string name="search">search...</string>
+    <string name="whatdoyouwant">what do you want?</string>
+    <string name="categories">categories</string>
+    <string name="shirt">shirt</string>
+    <string name="popular_product">Popular_product</string>
+    <string name="see_all">see_all</string>
+    <string name="hody">Hody</string>
+    <string name="shirtblack">shirtblack</string>
+    <string name="hody1">Hody</string>
+    <string name="shirt_gray">shirt_gray</string>
+
+
+</resources>
